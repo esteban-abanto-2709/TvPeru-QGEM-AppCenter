@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/data-collector",
+      "destination": "/unity/data-collector/index.html"
+    }
+  ]
+}
