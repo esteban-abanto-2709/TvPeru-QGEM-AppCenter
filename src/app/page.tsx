@@ -28,7 +28,15 @@ export default function Home() {
               href="/unity/data-collector/index.html"
               className="text-blue-600 dark:text-blue-400 hover:underline"
             >
-              Ir al Colector →
+              Ir al Data Collector →
+            </a>
+          </li>
+          <li className="tracking-[-.01em]">
+            <a
+              href="/unity/interactive-games/index.html"
+              className="text-blue-600 dark:text-blue-400 hover:underline"
+            >
+              Ir al Interactive Games →
             </a>
           </li>
         </ol>
