@@ -16,10 +16,9 @@ export const metadata: Metadata = {
   title: "TV Perú App Center - Que Gane El Mejor",
   description: "Sistema centralizado para el programa 'Que Gane El Mejor' de TV Perú. Gestión unificada de juegos y herramientas en tiempo real.",
   keywords: "TV Perú, Que Gane El Mejor, App Center, juegos educativos, sistema centralizado",
-  authors: [{ name: "TV Perú - IRTP" }],
-  creator: "Instituto Nacional de Radio y Televisión del Perú",
-  publisher: "TV Perú",
-  robots: "noindex, nofollow", // Para ambiente de desarrollo
+  authors: [{ name: "Esteban Abanto Garcia" }],
+  creator: "Esteban Abanto Garcia",
+  publisher: "Esteban Abanto Garcia"
 };
 
 export default function RootLayout({

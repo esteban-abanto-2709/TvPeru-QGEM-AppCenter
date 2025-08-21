@@ -200,7 +200,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-6 py-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="mb-4 md:mb-0">
-              <p className="text-red-200">&copy; 2024 TV Perú - Instituto Nacional de Radio y Televisión del Perú</p>
+              <p className="text-red-200">&copy; 2025 Esteban Abanto Garcia. Todos los derechos reservados.</p>
             </div>
             <div className="flex items-center space-x-4">
               <span className="text-red-200 text-sm">Versión del Sistema: v1.0.0</span>

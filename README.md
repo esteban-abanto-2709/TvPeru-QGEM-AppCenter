@@ -126,8 +126,11 @@ Este es un proyecto privado desarrollado como servicio independiente para TV Per
 
 ## 📄 Licencia
 
-**Todos los derechos reservados.** Este proyecto es propiedad intelectual del desarrollador.
-El software es desarrollado bajo contrato de servicios independientes para el Instituto Nacional de Radio y Televisión del Perú (IRTP) - TV Perú, pero la propiedad del código fuente y la arquitectura pertenecen al autor.
+**Todos los derechos reservados.** Copyright (c) 2025 Esteban Abanto Garcia.
+
+Este proyecto es propiedad intelectual exclusiva del desarrollador. El software fue desarrollado bajo contrato de servicios independientes para TV Perú, pero la propiedad del código fuente y la arquitectura pertenecen al autor.
+
+**Contacto:** <esteban.abanto.2709@gmail.com>
 
 ---
 
