@@ -23,6 +23,14 @@ export default function Home() {
           <li className="tracking-[-.01em]">
             Save and see your changes instantly.
           </li>
+          <li className="tracking-[-.01em]">
+            <a
+              href="/unity/data-collector/index.html"
+              className="text-blue-600 dark:text-blue-400 hover:underline"
+            >
+              Ir al Colector →
+            </a>
+          </li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
