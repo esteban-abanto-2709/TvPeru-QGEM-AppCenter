@@ -87,7 +87,7 @@ export default function Home() {
             </p>
             <div className="flex flex-col sm:flex-row gap-3">
               <a
-                href="/data-collector"
+                href="/unity/data-collector/index.html"
                 className="flex-1 bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-6 rounded-lg transition-colors duration-200 text-center group-hover:shadow-lg"
               >
                 Abrir Collector →
