@@ -2,6 +2,21 @@
   "name": "tvperu-qgem-appcenter",
   "version": "0.1.0",
   "private": true,
+  "description": "App Center - Sistema centralizado para el programa 'Que Gane El Mejor' de TV Perú. Plataforma web con Next.js para gestión de juegos y herramientas interactivas Unity WebGL.",
+  "author": {
+    "name": "Esteban Abanto",
+    "email": "esteban.abanto.2709@gmail.com"
+  },
+  "keywords": [
+    "tv-peru",
+    "que-gane-el-mejor",
+    "nextjs",
+    "unity-webgl",
+    "app-center",
+    "interactive-games",
+    "television",
+    "broadcasting"
+  ],
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build --turbopack",
